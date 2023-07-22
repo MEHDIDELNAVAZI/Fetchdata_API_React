@@ -1,4 +1,10 @@
+import Users from "./users";
+
 function App() {
-  return <></>;
+  return (
+    <>
+      <Users />
+    </>
+  );
 }
 export default App;
